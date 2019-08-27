@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyWatchCatalog</string>
+    <string name="item_name">Item Name</string>
+    <string name="excerpt">Short Description</string>
+    <string name="price">Price</string>
+    <string name="heroes_name">Oda Aditiya Nicola</string>
+</resources>
